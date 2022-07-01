@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.theairspecialist.com	TRUE	/	FALSE	1999999999	SEOT	#1
+www.theairspecialist.com	TRUE	/	FALSE	1999999999	T	!!
+www.theairspecialist.com	TRUE	/	FALSE	1999999999	SEOV	#1
+.www.theairspecialist.com	TRUE	/	FALSE	1999999999	TS0119bc70	0184cfe7a685b9d16fe2fd26f4904c38bb5d6c078b64f11ec44f6b528354c283c2626df21ce5b4ca406622c89f281b5ce60fc3fbb0
+
